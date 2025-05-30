@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=swap');
+
+body {
+  background: url('../images/parchment-bg.jpg');
+  background-size: cover;
+  font-family: 'Uncial Antiqua', cursive;
+  color: #3e2f1c;
+  padding: 2em;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: #3e2f1c;
+  padding-bottom: 0.3em;
+  margin-top: 1.5em;
+}
+
+a {
+  color: #5b3924;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
