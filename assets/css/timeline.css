@@ -43,7 +43,7 @@
     box-sizing: content-box;
     position: fixed;
     inset: 0;
-    margin: 5rem auto;
+    margin: 20em auto;
     width: var(--cards-container-size);
     height: var(--cards-container-size);
     padding: var(--cards-container-padding);
